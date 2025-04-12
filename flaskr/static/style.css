@@ -2,14 +2,15 @@
 
 html {
     margin: 25px;
-    background-color: lightblue;
-    font-family: verdana;
+    background-color: #e0f7fa;
+    font-family: Verdana, sans-serif;
     font-size: 20px;
+    color: #333;
 }
 
 h3 {
     margin-top: 20px;
-    background-color: lightblue;
+    background-color: #e0f7fa;
     font-size: 30px;
     font-weight: bolder;
 }
@@ -17,5 +18,5 @@ h3 {
 p {
     margin-top: 10px;
     margin-left: 15px;
-    background-color: lightblue;
+    background-color: #e0f7fa;
 }

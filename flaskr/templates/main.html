@@ -28,7 +28,7 @@
     <!-- The below tag is using Bulma CSS. Try replacing line 30 with line 29. -->
     <!-- <div class="content"> -->
     <div>
-        {% block content %}{{ page_content }}{% endblock %}
+        {% block content %}{{ page_content | safe }}{% endblock %}
     </div>
 
 </body>
